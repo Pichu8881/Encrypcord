@@ -1,3 +1,3 @@
 Target runtime: win-arm
 
-# We are not publishing our tool for win-arm. Sorry for inconvenience caused! Please use win-arm64 instead.
+### We will not be publishing our tool for win-arm. Please use win-arm64 instead. Sorry for inconvenience!
